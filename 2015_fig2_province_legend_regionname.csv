@@ -1,0 +1,572 @@
+ISO,Region
+AF-BAL,Balkh 
+AF-BAM,Bamyan 
+AF-BDG,Badghis 
+AF-BDS,Badakhshan 
+AF-BGL,Baghlan 
+AF-DAY,Daykundi 
+AF-FRA,Farah 
+AF-FYB,Faryab 
+AF-GHA,Ghazni 
+AF-GHO,Ghor 
+AF-HEL,Helmand 
+AF-JOW,Jawzjan 
+AF-KAB,Kabul 
+AF-KAN,Kandahar 
+AF-KAP,Kapisa 
+AF-KDZ,Kunduz 
+AF-KHO,Khost 
+AF-KNR,Kunarha 
+AF-LAG,Laghman 
+AF-LOG,Logar 
+AF-NAN,Nangarhar 
+AF-NIM,Nimroz 
+AF-NUR,Nooristan 
+AF-PAN,Panjsher 
+AF-PAR,Parwan 
+AF-PIA,Paktya 
+AF-PKA,Paktika 
+AF-SAM,Samangan 
+AF-SAR,Sar-E-Pul 
+AF-TAK,Takhar 
+AF-URU,Urozgan 
+AF-WAR,Wardak 
+AF-ZAB,Zabul 
+AM-AG,Aragatsotn 
+AM-AR,Ararat 
+AM-AV,Armavir 
+AM-ER,Yerevan 
+AM-GR,Gegharkunik 
+AM-KT,Kotayk 
+AM-LO,Lori 
+AM-SH,Shirak 
+AM-SU,Syunik 
+AM-TV,Tavush 
+AM-VD,Vayots Dzor 
+AO-BGO,Bengo            
+AO-BGU,Benguela         
+AO-BIE,Bié              
+AO-CAB,Cabinda          
+AO-CCU,Cuando Cubango   
+AO-CNN,Cunene           
+AO-CUS,Cuanza Sul       
+AO-HUA,Huambo           
+AO-HUI,Huíla            
+AO-LNO,Lunda Norte      
+AO-LSU,Lunda Sul        
+AO-LUA,Luanda           
+AO-MAL,Malanje          
+AO-MOX,Moxico           
+AO-NAM,Namibe           
+AO-UIG,Uíge             
+AO-ZAI,Zaire            
+BD-06,Barisal 
+BD-55,Rangpur 
+BI-BB,Bubanza 
+BI-BM,Bujumbura Mairie 
+BI-BR,Bururi 
+BI-CA,Cankuzo 
+BI-CI,Cibitoke 
+BI-GI,Gitega 
+BI-KI,Kirundo 
+BI-KR,Karusi 
+BI-KY,Kayanza 
+BI-MA,Makamba 
+BI-MU,Muramvya 
+BI-MW,Mwaro 
+BI-MY,Muyinga 
+BI-NG,Ngozi 
+BI-RT,Rutana 
+BI-RY,Ruyigi 
+BJ-AK,Atacora 
+BJ-AL,Alibori 
+BJ-AQ,Atlantique 
+BJ-BO,Borgou 
+BJ-CO,Collines 
+BJ-DO,Donga 
+BJ-LI,Littoral (Cotonou) 
+BJ-MO,Mono 
+BJ-OU,Ouémé 
+BJ-PL,Plateau 
+BJ-ZO,Zou 
+CD-BC,Bas-Congo 
+CD-EQ,Equateur 
+CD-KE,Kasaï Oriental 
+CD-KN,Kinshasa 
+CD-MA,Maniema 
+CD-NK,Nord-Kivu 
+CD-SK,Sud-Kivu 
+CG-11,Bouénza 
+CG-12,Pool 
+CG-13,Sangha 
+CG-14,Plateaux 
+CG-15,Cuvette-Ouest 
+CG-16,Pointe-Noire 2009 
+CG-2,Lékoumou 
+CG-7,Likouala 
+CG-BZV,Brazzaville 2009 
+CM-AD,Adamaoua 
+CM-CE,Centre 
+CM-EN,Extrême-Nord 
+CM-ES,Est 
+CM-LT,Littoral 
+CM-NO,Nord 
+CM-NW,Nord Ouest 
+CM-OU,Ouest 
+CM-SU,Sud 
+CM-SW,Sud Ouest 
+CO-AMA,Amazonas
+CO-ANT,Antioquia
+CO-ARA,Arauca
+CO-ATL,Atlántico
+CO-BOL,Bolívar
+CO-BOY,Boyacá
+CO-CAL,Caldas
+CO-CAQ,Caquetá
+CO-CAS,Casanare
+CO-CAU,Cauca
+CO-CES,Cesar
+CO-CHO,Chocó
+CO-COR,Córdoba
+CO-CUN,Cundinamarca
+CO-DC,Bogotá
+CO-GUA,Guainía
+CO-GUV,Guaviare
+CO-LAG,La Guajira
+CO-MAG,Magdalena
+CO-MET,Meta
+CO-NAR,Nariño
+CO-NSA,Norte de Santander
+CO-PUT,Putumayo
+CO-QUI,Quindío
+CO-RIS,Risaralda
+CO-SAN,Santander
+CO-SAP,San Andrés
+CO-SUC,Sucre
+CO-VAC,Valle
+CO-VAU,Vaupés
+CO-VID,Vichada
+ET-AA,Addis Ababa 
+ET-AF,Afar 
+ET-AM,Amhara 
+ET-BE,Benishangul-Gumuz 
+ET-DD,Dire Dawa 
+ET-GA,Gambela 
+ET-HA,Harari 
+ET-OR,Oromia 
+ET-SN,SNNPR 
+ET-SO,Somali 
+ET-TI,Tigray 
+GA-1,Estuaire (excluding Libreville) 
+GA-2,Haut-Ogooué 
+GA-3,Moyen-Ogooué 
+GA-4,Ngounié 
+GA-5,Nyanga 
+GA-6,Ogooué Ivindo 
+GA-7,Ogooué-Lolo 
+GA-8,Ogooué-Maritime (excluding Port-Gentil) 
+GA-9,Woleu Ntem 
+GH-AA,Greater Accra 
+GH-AH,Ashanti 
+GH-CP,Central 
+GH-EP,Eastern 
+GH-NP,Northern 
+GH-TV,Volta 
+GH-UE,Upper East 
+GH-UW,Upper West 
+GH-WP,Western 
+GN-B,Boké 
+GN-C,Conakry 
+GN-NZ,N'Zérékoré 
+GT-AV,Alta Verapaz 
+GT-BV,Baja Verapaz 
+GT-CM,Chimaltenango 
+GT-CQ,Chiquimula 
+GT-ES,Escuintla 
+GT-GU,Guatemala
+GT-HU,Huehuetenango 
+GT-IZ,Izabal 
+GT-JA,Jalapa 
+GT-JU,Jutiapa 
+GT-PE,Petén 
+GT-PR,El Progreso 
+GT-QC,Quiché 
+GT-QZ,Quetzaltenango 
+GT-RE,Retalhuleu 
+GT-SA,Sacatepéquez 
+GT-SM,San Marcos 
+GT-SO,Sololá 
+GT-SR,Santa Rosa 
+GT-SU,Suchitepéquez 
+GT-TO,Totonicapán 
+GT-ZA,Zacapa 
+IN-AN,Andaman and Nicobar Islands 
+IN-AP,Andhra Pradesh 
+IN-AS,Assam 
+IN-BR,Bihar 
+IN-CH,Chandigarh 
+IN-CT,Chhattisgarh 
+IN-DL,New Delhi 
+IN-GA,Goa 
+IN-GJ,Gujarat 
+IN-HP,Himachal Pradesh 
+IN-HR,Haryana 
+IN-JH,Jharkhand 
+IN-KA,Karnataka 
+IN-KL,Kerala 
+IN-LD,Lakshadweep 
+IN-MH,Maharashtra 
+IN-ML,Meghalaya 
+IN-MN,Manipur 
+IN-MP,Madhya Pradesh 
+IN-MZ,Mizoram 
+IN-NL,Nagaland 
+IN-OR,Odisha 
+IN-PB,Punjab 
+IN-PY,Puducherry 
+IN-RJ,Rajasthan 
+IN-SK,Sikkim 
+IN-TG,Telangana 
+IN-TN,Tamil Nadu 
+IN-TR,Tripura 
+IN-UP,Uttar Pradesh 
+IN-UT,Uttarakhand 
+JO-AJ,Ajloun 
+JO-AM,Amman 
+JO-AQ,Aqaba 
+JO-AT,Tafiela 
+JO-AZ,Zarqa 
+JO-BA,Balqa 
+JO-IR,Irbid 
+JO-JA,Jarash 
+JO-KA,Karak 
+JO-MA,Mafraq 
+JO-MD,Madaba 
+JO-MN,Ma'an 
+KG-B,Batken 
+KG-C,Chui 
+KG-GB,Bishkek 
+KG-J,Djalal-Abad 
+KG-N,Naryn 
+KG-T,Talas 
+KG-Y,Issyk-Kul 
+KH-1,Banteay Meanchey 
+KH-12,Phnom Penh 
+KH-14,Prey Veng 
+KH-15,Pursat 
+KH-17,Siem Reap 
+KH-20,Svay Rieng 
+KH-22,Otdar Mean Chey 
+KH-3,Kampong Cham 
+KH-4,Kampong Chhnang 
+KH-5,Kampong Speu 
+KH-6,Kampong Thom 
+KH-8,Kandal 
+LR-BG,Bong 
+LR-BM,Bomi 
+LR-CM,Grand Cape Mount 
+LR-GB,Grand Bassa 
+LR-GG,Grand Gedeh 
+LR-GK,Grand Kru 
+LR-GP,Gbarpolu 
+LR-LO,Lofa 
+LR-MG,Margibi 
+LR-MO,Montserrado incl Monrovia 
+LR-MY,Maryland 
+LR-NI,Nimba 
+LR-RG,River Gee 
+LR-RI,River Cess 
+LR-SI,Sinoe 
+LS-A,Maseru 
+LS-B,Butha-Buthe 
+LS-C,Leribe 
+LS-D,Berea 
+LS-E,Mafeteng 
+LS-F,Mohale's Hoek 
+LS-G,Quthing 
+LS-H,Qasha's Nek 
+LS-J,Mokhotlong 
+LS-K,Thaba-Tseka 
+ML-1,Kayes 
+ML-2,Koulikoro 
+ML-3,Sikasso 
+ML-4,Ségou 
+ML-5,Kidal/Gao/Tombouctou
+ML-BKO,Bamako 
+MM-01,Sagaing 
+MM-02,Bago 
+MM-03,Magway 
+MM-04,Mandalay 
+MM-05,Taninthayi 
+MM-06,Yangon 
+MM-07,Ayeyarwaddy 
+MM-11,Kachin 
+MM-12,Kayah 
+MM-13,Kayin 
+MM-14,Chin 
+MM-15,Mon 
+MM-16,Rakhine 
+MM-17,Shan 
+MM-18,NayPyitaw 
+MW-BA,Balaka 
+MW-BL,Blantyre 
+MW-CK,Chikwawa 
+MW-CR,Chiradzulu 
+MW-CT,Chitipa 
+MW-DE,Dedza 
+MW-DO,Dowa 
+MW-KR,Karonga 
+MW-KS,Kasungu 
+MW-LI,Lilongwe 
+MW-MC,Mchinji 
+MW-MG,Mangochi 
+MW-MH,Machinga 
+MW-MU,Mulanje 
+MW-MW,Mwanza 
+MW-MZ,Mzimba 
+MW-NB,Nkhata Bay 
+MW-NE,Neno 
+MW-NS,Nsanje 
+MW-PH,Phalombe 
+MW-RU,Rumphi 
+MW-SA,Salima 
+MW-TH,Thyolo 
+MW-ZO,Zomba 
+MZ-A,Niassa
+MZ-B,Manica
+MZ-G,Gaza
+MZ-I,Inhambane
+MZ-L,Maputo Provincia
+MZ-MPM,Maputo Cidade
+MZ-N,Nampula
+MZ-P,Cabo Delgado
+MZ-Q,Zambézia
+MZ-S,Sofala
+MZ-T,Tete
+NA-ER,Erongo 
+NA-HA,Hardap 
+NA-KA,Karas 
+NA-KH,Khomas 
+NA-KU,Kunene 
+NA-OD,Otjozondjupa 
+NA-OH,Omaheke 
+NA-ON,Oshana 
+NA-OS,Omusati 
+NA-OT,Oshikoto 
+NA-OW,Ohangwena 
+NE-1,Agadez 
+NE-2,Diffa 
+NE-3,Dosso 
+NE-4,Maradi 
+NE-5,Tahoua 
+NE-6,Tillabéri 
+NE-7,Zinder 
+NE-8,Niamey 
+NG-AB,Abia
+NG-AD,Adamawa
+NG-AK,Akwa Ibom
+NG-AN,Anambra
+NG-BA,Bauchi
+NG-BE,Benue
+NG-BO,Borno
+NG-BY,Bayelsa
+NG-CR,Cross River
+NG-DE,Delta
+NG-EB,Ebonyi
+NG-ED,Edo
+NG-EK,Ekiti
+NG-EN,Enugu
+NG-FC,FCT Abuja
+NG-GO,Gombe
+NG-IM,Imo
+NG-JI,Jigawa
+NG-KD,Kaduna
+NG-KE,Kebbi
+NG-KN,Kano
+NG-KO,Kogi
+NG-KT,Katsina
+NG-KW,Kwara
+NG-NA,Nasarawa
+NG-NI,Niger
+NG-OG,Ogun
+NG-ON,Ondo
+NG-OS,Osun
+NG-OY,Oyo
+NG-PL,Plateau
+NG-RI,Rivers
+NG-SO,Sokoto
+NG-TA,Taraba
+NG-YO,Yobe
+NG-ZA,Zamfara
+PE-ANC,Ancash 
+PE-APU,Apurimac 
+PE-ARE,Arequipa 
+PE-AYA,Ayacucho 
+PE-CAJ,Cajamarca 
+PE-CUS,Cusco 
+PE-HUC,Huanuco 
+PE-HUV,Huancavelica 
+PE-ICA,Ica 
+PE-JUN,Junin 
+PE-LAL,La Libertad 
+PE-LAM,Lambayaque 
+PE-LIM,Lima 
+PE-LOR,Loreto 
+PE-MDD,Madre de Dios 
+PE-MOQ,Moquegua 
+PE-PAS,Pasco 
+PE-PIU,Piura 
+PE-PUN,Puno 
+PE-SAM,San Martín 
+PE-TAC,Tacna 
+PE-TUM,Tumbes 
+PE-UCA,Ucayali 
+PH-00,National Capital Region 
+PH-01,Ilocos 
+PH-02,Cagayan Valley 
+PH-03,Central Luzon 
+PH-05,Bicol 
+PH-07,Central Visayas 
+PH-08,Western Visayas 
+PH-10,Northern Mindanao 
+PH-13,Caraga 
+PH-14,ARMM 
+PH-15,Cordillera Administ. 
+PH-41,MIMAROPA 
+PK-BA,Balochistan 
+PK-GB,Gilgit Baltistan 
+PK-IS,Islamabad (ICT)
+PK-KP,Khyber Pakhtunkhwa 
+PK-PB,Punjab excluding Islamabad (ICT)
+PK-SD,Sindh 
+RW-01,Kigali 
+RW-02,East 
+RW-03,North 
+RW-04,West 
+RW-05,South 
+SL-E,Eastern 
+SL-N,Northern 
+SL-S,Southern 
+SL-W,Western 
+SN-DB,Diourbel 
+SN-DK,Dakar 
+SN-FK,Fatick 
+SN-KA,..Kaffrine 
+SN-KD,..Kolda (2010)
+SN-KE,..Kédougou 
+SN-KL,..Kaolack (2010)
+SN-LG,Louga 
+SN-MT,Matam 
+SN-SE,..Sédhiou 
+SN-SL,Saint Louis 
+SN-TC,..Tambacounda (2010)
+SN-TH,Thiès 
+SN-ZG,Ziguinchor 
+TD-BG,Barh El Gazal 
+TD-CB,Chari Baguirmi 
+TD-GR,Guéra 
+TD-HL,Hadjer-Lamis 
+TD-KA,Kanem 
+TD-LO,Logone Occidental 
+TD-LR,Logone Oriental 
+TD-MA,Mandoul 
+TD-MC,Moyen Chari 
+TD-ME,Mayo Kebbi Est 
+TD-MO,Mayo Kebbi Ouest 
+TD-OD,Ouaddaï 
+TD-SA,Salamat 
+TD-TA,Tandjilé 
+TD-WF,Wadi Fira 
+TG-C,Centrale 
+TG-K,Kara 
+TG-M,Maritime 
+TG-P,Plateaux 
+TG-S,Savanes 
+TJ-DU,Dushanbe 
+TJ-KT,Khatlon 
+TJ-SU,Sughd 
+TL-AL,Aileu 
+TL-AN,Ainaro 
+TL-BA,Baucau 
+TL-BO,Bobonaro 
+TL-CO,Cova Lima 
+TL-DI,Dili 
+TL-ER,Ermera 
+TL-LA,Lautem 
+TL-LI,Liquica 
+TL-MF,Manufahi 
+TL-MT,Manatuto 
+TL-OE,Oecussi 
+TL-VI,Viqueque 
+TZ-01,Arusha 
+TZ-02,Dar es Salaam 
+TZ-03,Dodoma 
+TZ-04,Iringa 
+TZ-05,Kagera 
+TZ-06,Kaskazini Pemba 
+TZ-07,Kaskazini Unguja 
+TZ-08,Kigoma 
+TZ-09,Kilimanjaro 
+TZ-10,Kusini Pemba 
+TZ-11,Kusini Unguja 
+TZ-12,Lindi 
+TZ-13,Mara 
+TZ-14,Mbeya (before 2016)
+TZ-15,Mjini Magharibi 
+TZ-16,Morogoro 
+TZ-17,Mtwara 
+TZ-18,Mwanza 
+TZ-20,Rukwa 
+TZ-21,Ruvuma 
+TZ-22,Shinyanga 
+TZ-23,Singida 
+TZ-24,Tabora 
+TZ-25,Tanga 
+TZ-26,Manyara 
+TZ-27,Geita 
+TZ-28,Katavi 
+TZ-29,Njombe 
+TZ-30,Simiyu 
+UG-E,Eastern
+UG-W,Western
+YE-AB,Abyan 
+YE-AD,Aden 
+YE-AM,Amran 
+YE-BA,Al-Baidha 
+YE-DH,Dhamar 
+YE-HD,Hadramout 
+YE-HJ,Hajjah 
+YE-HU,Al-Hodiedah 
+YE-IB,Ibb 
+YE-JA,Al-Jawf 
+YE-LA,Lahj 
+YE-MA,Mareb 
+YE-MR,Al-Mhrah 
+YE-MW,Al-Mhweit 
+YE-RA,Reimah 
+YE-SD,Sadah 
+YE-SH,Shabwah 
+YE-SN,Sanaa 
+YE-TA,Taiz 
+ZA-EC,Eastern Cape 
+ZA-MP,Mpumalanga 
+ZM-01,Western 
+ZM-02,Central 
+ZM-03,Eastern 
+ZM-04,Luapula 
+ZM-05,Northern 
+ZM-06,North-Western 
+ZM-07,Southern 
+ZM-08,Copperbelt 
+ZM-09,Lusaka 
+ZM-10,Muchinga 
+ZW-BU,Bulawayo
+ZW-HA,Harare Chitungwiza
+ZW-MA,Manicaland
+ZW-MC,Mashonaland Central
+ZW-ME,Mashonaland East
+ZW-MI,Midlands
+ZW-MN,Matabeleland North
+ZW-MS,Matabeleland South
+ZW-MV,Masvingo
+ZW-MW,Mashonaland West

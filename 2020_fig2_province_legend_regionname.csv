@@ -1,0 +1,209 @@
+ISO,Region
+BD-06,Barisal 
+BD-13,Dhaka 
+BD-55,Rangpur 
+BJ-AK,Atacora 
+BJ-AL,Alibori 
+BJ-AQ,Atlantique 
+BJ-BO,Borgou 
+BJ-CO,Collines 
+BJ-DO,Donga 
+BJ-LI,Littoral (Cotonou) 
+BJ-MO,Mono 
+BJ-OU,Ouémé
+BJ-PL,Plateau 
+BJ-ZO,Zou 
+CM-AD,Adamaoua 
+CM-CE,Centre 
+CM-EN,Extrême-Nord
+CM-ES,Est 
+CM-LT,Littoral 
+CM-NO,Nord 
+CM-NW,Nord Ouest 
+CM-OU,Ouest 
+CM-SU,Sud 
+CM-SW,Sud Ouest 
+ET-AA,Addis Ababa 
+ET-AF,Afar 
+ET-AM,Amhara 
+ET-BE,Benishangul-Gumuz 
+ET-DD,Dire Dawa 
+ET-GA,Gambela 
+ET-HA,Harari 
+ET-OR,Oromia 
+ET-SN,SNNPR 
+ET-SO,Somali 
+ET-TI,Tigray 
+GH-AA,Greater Accra 
+GH-AH,Ashanti 
+GH-CP,Central 
+GH-EP,Eastern 
+GH-NP,Northern 
+GH-TV,Volta 
+GH-UE,Upper East 
+GH-UW,Upper West 
+GH-WP,Western 
+GN-B,Boké
+GN-C,Conakry 
+GN-NZ,N'Zérékoré
+IN-AN,Andaman and Nicobar Islands 
+IN-AP,Andhra Pradesh 
+IN-AS,Assam 
+IN-BR,Bihar 
+IN-CH,Chandigarh 
+IN-CT,Chhattisgarh 
+IN-DL,New Delhi 
+IN-GA,Goa 
+IN-GJ,Gujarat 
+IN-HP,Himachal Pradesh 
+IN-HR,Haryana 
+IN-JH,Jharkhand 
+IN-JK,Jammu & Kashmir 
+IN-KA,Karnataka 
+IN-KL,Kerala 
+IN-LD,Lakshadweep 
+IN-MH,Maharashtra 
+IN-ML,Meghalaya 
+IN-MN,Manipur 
+IN-MP,Madhya Pradesh 
+IN-MZ,Mizoram 
+IN-NL,Nagaland 
+IN-OR,Odisha 
+IN-PB,Punjab 
+IN-PY,Puducherry 
+IN-RJ,Rajasthan 
+IN-SK,Sikkim 
+IN-TG,Telangana 
+IN-TN,Tamil Nadu 
+IN-TR,Tripura 
+IN-UP,Uttar Pradesh 
+IN-UT,Uttarakhand 
+LR-BG,Bong 
+LR-BM,Bomi 
+LR-CM,Grand Cape Mount 
+LR-GB,Grand Bassa 
+LR-GG,Grand Gedeh 
+LR-GK,Grand Kru 
+LR-GP,Gbarpolu 
+LR-LO,Lofa 
+LR-MG,Margibi 
+LR-MO,Montserrado incl Monrovia 
+LR-MY,Maryland 
+LR-NI,Nimba 
+LR-RG,River Gee 
+LR-RI,River Cess 
+LR-SI,Sinoe 
+ML-1,Kayes 
+ML-2,Koulikoro 
+ML-3,Sikasso 
+ML-4,Ségou
+ML-5,Kidal/Gao/Tombouctou
+ML-BKO,Bamako 
+MR-01,Hodh Echargui 
+MR-02,Hodh Gharbi 
+MR-03,Assaba 
+MR-04,Gorgol 
+MR-05,Brakna 
+MR-06,Trarza 
+MR-07,Adrar 
+MR-08,Dakhlet Nouadhibou 
+MR-09,Tagant 
+MR-10,Guidimagha 
+MR-11,Tiris Zemour et Inchiri 
+MZ-A,Niassa
+MZ-B,Manica
+MZ-G,Gaza
+MZ-I,Inhambane
+MZ-L,Maputo Provincia
+MZ-MPM,Maputo Cidade
+MZ-N,Nampula
+MZ-P,Cabo Delgado
+MZ-Q,Zambézia
+MZ-S,Sofala
+MZ-T,Tete
+NG-AB,Abia
+NG-AD,Adamawa
+NG-AK,Akwa Ibom
+NG-AN,Anambra
+NG-BA,Bauchi
+NG-BE,Benue
+NG-BO,Borno
+NG-BY,Bayelsa
+NG-CR,Cross River
+NG-DE,Delta
+NG-EB,Ebonyi
+NG-ED,Edo
+NG-EK,Ekiti
+NG-EN,Enugu
+NG-FC,FCT Abuja
+NG-GO,Gombe
+NG-IM,Imo
+NG-JI,Jigawa
+NG-KD,Kaduna
+NG-KE,Kebbi
+NG-KN,Kano
+NG-KO,Kogi
+NG-KT,Katsina
+NG-KW,Kwara
+NG-NA,Nasarawa
+NG-NI,Niger
+NG-OG,Ogun
+NG-ON,Ondo
+NG-OS,Osun
+NG-OY,Oyo
+NG-PL,Plateau
+NG-RI,Rivers
+NG-SO,Sokoto
+NG-TA,Taraba
+NG-YO,Yobe
+NG-ZA,Zamfara
+PH-00,National Capital Region 
+PH-01,Ilocos 
+PH-02,Cagayan Valley 
+PH-03,Central Luzon 
+PH-05,Bicol 
+PH-07,Central Visayas 
+PH-08,Western Visayas 
+PH-10,Northern Mindanao 
+PH-13,Caraga 
+PH-14,ARMM 
+PH-15,Cordillera Administ. 
+PH-41,MIMAROPA 
+PK-BA,Balochistan 
+PK-GB,Gilgit Baltistan 
+PK-IS,Islamabad (ICT)
+PK-KP,Khyber Pakhtunkhwa 
+PK-PB,Punjab excluding Islamabad (ICT)
+PK-SD,Sindh 
+RW-01,Kigali 
+RW-02,East 
+RW-03,North 
+RW-04,West 
+RW-05,South 
+SL-E,Eastern 
+SL-N,Northern 
+SL-NW,North Western 
+SL-S,Southern 
+SL-W,Western 
+TG-C,Centrale 
+TG-K,Kara 
+TG-M,Maritime 
+TG-P,Plateaux 
+TG-S,Savanes 
+TJ-DU,Dushanbe 
+TJ-KT,Khatlon 
+TJ-SU,Sughd 
+UG-102,Kampala 
+UG-E,Eastern
+UG-N,Northern
+UG-W,Western
+ZM-01,Western 
+ZM-02,Central 
+ZM-03,Eastern 
+ZM-04,Luapula 
+ZM-05,Northern 
+ZM-06,North-Western 
+ZM-07,Southern 
+ZM-08,Copperbelt 
+ZM-09,Lusaka 
+ZM-10,Muchinga 
