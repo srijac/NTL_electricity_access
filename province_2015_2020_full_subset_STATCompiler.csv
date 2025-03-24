@@ -1,0 +1,837 @@
+Country,Survey,Region,code,elec,house
+Afghanistan,2015 DHS,Kabul ,AF-KAB,87.7,88.3
+Afghanistan,2015 DHS,Kapisa ,AF-KAP,55.1,52.7
+Afghanistan,2015 DHS,Parwan ,AF-PAR,81.3,78.7
+Afghanistan,2015 DHS,Wardak ,AF-WAR,96.7,96.2
+Afghanistan,2015 DHS,Logar ,AF-LOG,65.5,65.8
+Afghanistan,2015 DHS,Nangarhar ,AF-NAN,54,54.3
+Afghanistan,2015 DHS,Laghman ,AF-LAG,38.3,39.6
+Afghanistan,2015 DHS,Panjsher ,AF-PAN,82.4,83
+Afghanistan,2015 DHS,Baghlan ,AF-BGL,88.2,89.1
+Afghanistan,2015 DHS,Bamyan ,AF-BAM,90,88.7
+Afghanistan,2015 DHS,Ghazni ,AF-GHA,80.3,81
+Afghanistan,2015 DHS,Paktika ,AF-PKA,97.5,97.5
+Afghanistan,2015 DHS,Paktya ,AF-PIA,48.1,48.5
+Afghanistan,2015 DHS,Khost ,AF-KHO,95.6,95.4
+Afghanistan,2015 DHS,Kunarha ,AF-KNR,58.1,55.8
+Afghanistan,2015 DHS,Nooristan ,AF-NUR,69.6,69.7
+Afghanistan,2015 DHS,Badakhshan ,AF-BDS,57,51.8
+Afghanistan,2015 DHS,Takhar ,AF-TAK,80.2,78.3
+Afghanistan,2015 DHS,Kunduz ,AF-KDZ,75,75.5
+Afghanistan,2015 DHS,Samangan ,AF-SAM,51.4,48.1
+Afghanistan,2015 DHS,Balkh ,AF-BAL,79.1,77
+Afghanistan,2015 DHS,Sar-E-Pul ,AF-SAR,85.5,84.5
+Afghanistan,2015 DHS,Ghor ,AF-GHO,99.8,99.8
+Afghanistan,2015 DHS,Daykundi ,AF-DAY,96.6,96
+Afghanistan,2015 DHS,Urozgan ,AF-URU,42.6,40.9
+Afghanistan,2015 DHS,Zabul ,AF-ZAB,68.5,68.3
+Afghanistan,2015 DHS,Kandahar ,AF-KAN,39.7,39.3
+Afghanistan,2015 DHS,Jawzjan ,AF-JOW,50,48.9
+Afghanistan,2015 DHS,Faryab ,AF-FYB,95.4,94.6
+Afghanistan,2015 DHS,Helmand ,AF-HEL,20.4,19.2
+Afghanistan,2015 DHS,Badghis ,AF-BDG,3.4,3.4
+Afghanistan,2015 DHS,Herat ,AF-HER,67.1,66.6
+Afghanistan,2015 DHS,Farah ,AF-FRA,87.3,85.1
+Afghanistan,2015 DHS,Nimroz ,AF-NIM,88.5,86.1
+Angola,2015-16 DHS,Cabinda          ,AO-CAB,66.5,63.4
+Angola,2015-16 DHS,Zaire            ,AO-ZAI,36.1,35.1
+Angola,2015-16 DHS,Uíge             ,AO-UIG,21.9,18
+Angola,2015-16 DHS,Luanda           ,AO-LUA,79.6,78.2
+Angola,2015-16 DHS,Cuanza Norte     ,AO-CNO,35.2,31.3
+Angola,2015-16 DHS,Cuanza Sul       ,AO-CUS,21,18.3
+Angola,2015-16 DHS,Malanje          ,AO-MAL,36.5,32.1
+Angola,2015-16 DHS,Lunda Norte      ,AO-LNO,27.5,25.9
+Angola,2015-16 DHS,Benguela         ,AO-BGU,38,33.8
+Angola,2015-16 DHS,Huambo           ,AO-HUA,23.5,19.4
+Angola,2015-16 DHS,Bié              ,AO-BIE,6.5,5.3
+Angola,2015-16 DHS,Moxico           ,AO-MOX,21,16.8
+Angola,2015-16 DHS,Cuando Cubango   ,AO-CCU,33.6,26.4
+Angola,2015-16 DHS,Namibe           ,AO-NAM,51.8,47.8
+Angola,2015-16 DHS,Huíla            ,AO-HUI,33.3,31.8
+Angola,2015-16 DHS,Cunene           ,AO-CNN,15.9,16.6
+Angola,2015-16 DHS,Lunda Sul        ,AO-LSU,24.8,21.8
+Angola,2015-16 DHS,Bengo            ,AO-BGO,35.8,31.2
+Armenia,2015-16 DHS,Aragatsotn ,AM-AG,100,100
+Armenia,2015-16 DHS,Ararat ,AM-AR,100,100
+Armenia,2015-16 DHS,Armavir ,AM-AV,99.9,99.8
+Armenia,2015-16 DHS,Gegharkunik ,AM-GR,100,100
+Armenia,2015-16 DHS,Lori ,AM-LO,100,100
+Armenia,2015-16 DHS,Kotayk ,AM-KT,100,100
+Armenia,2015-16 DHS,Shirak ,AM-SH,99.8,99.8
+Armenia,2015-16 DHS,Syunik ,AM-SU,100,100
+Armenia,2015-16 DHS,Vayots Dzor ,AM-VD,99.7,99.8
+Armenia,2015-16 DHS,Tavush ,AM-TV,100,100
+Armenia,2015-16 DHS,Yerevan ,AM-ER,100,100
+Bangladesh,2017-18 DHS,Barisal ,BD-06,58.6,59
+Bangladesh,2017-18 DHS,Chittagong ,BD-10,83,82.8
+Bangladesh,2017-18 DHS,Sylhet ,BD-60,76.9,77
+Bangladesh,2017-18 DHS,Khulna ,BD-27,86.9,86.4
+Bangladesh,2017-18 DHS,Rangpur ,BD-55,65.4,64.9
+Bangladesh,2017-18 DHS,Rajshahi ,BD-54,87.9,86.8
+Bangladesh,2017-18 DHS,Dhaka ,BD-13,91,90.9
+Bangladesh,2017-18 DHS,Mymensingh ,BD-34,76.5,76
+Bangladesh,2014 DHS,Barisal ,BD-06,47.6,46.5
+Bangladesh,2014 DHS,Chittagong ,BD-10,69.8,70.5
+Bangladesh,2014 DHS,Sylhet ,BD-60,43,44.3
+Bangladesh,2014 DHS,Khulna ,BD-27,61,60.1
+Bangladesh,2014 DHS,Rangpur ,BD-55,43.8,42.3
+Bangladesh,2014 DHS,Rajshahi ,BD-54,60.8,60.3
+Benin,2017-18 DHS,Atacora ,BJ-AK,20.4,19.1
+Benin,2017-18 DHS,Donga ,BJ-DO,36.3,33.4
+Benin,2017-18 DHS,Atlantique ,BJ-AQ,42.9,42.4
+Benin,2017-18 DHS,Littoral (Cotonou) ,BJ-LI,87.1,87.1
+Benin,2017-18 DHS,Borgou ,BJ-BO,24.8,27.6
+Benin,2017-18 DHS,Alibori ,BJ-AL,23.6,22.6
+Benin,2017-18 DHS,Mono ,BJ-MO,33.9,33
+Benin,2017-18 DHS,Ouémé ,BJ-OU,48.5,46.2
+Benin,2017-18 DHS,Plateau ,BJ-PL,25.2,23.7
+Benin,2017-18 DHS,Zou ,BJ-ZO,34.4,33.2
+Benin,2017-18 DHS,Collines ,BJ-CO,32.7,32.3
+Benin,2011-12 DHS,Atacora ,BJ-AK,15.5,15.9
+Benin,2011-12 DHS,Donga ,BJ-DO,34.1,32.4
+Benin,2011-12 DHS,Atlantique ,BJ-AQ,39.9,40.8
+Benin,2011-12 DHS,Littoral (Cotonou) ,BJ-LI,91.5,90.8
+Benin,2011-12 DHS,Borgou ,BJ-BO,29.3,32
+Benin,2011-12 DHS,Alibori ,BJ-AL,6.6,7.7
+Benin,2011-12 DHS,Mono ,BJ-MO,25.6,25.1
+Benin,2011-12 DHS,Ouémé ,BJ-OU,47.4,47.6
+Benin,2011-12 DHS,Plateau ,BJ-PL,19.4,20.4
+Benin,2011-12 DHS,Zou ,BJ-ZO,26.3,25.5
+Benin,2011-12 DHS,Collines ,BJ-CO,30.6,29.9
+Burkina Faso,2017-18 MIS,Centre (including Ouagadougou) ,BF-03,59.1,60
+Burkina Faso,2017-18 MIS,Boucle de Mouhoun ,BF-01,4.8,5.2
+Burkina Faso,2017-18 MIS,Centre-Sud ,BF-07,8.8,10.8
+Burkina Faso,2017-18 MIS,Plateau Central ,BF-11,5.4,7.2
+Burkina Faso,2017-18 MIS,Centre-Est ,BF-04,9.9,11.9
+Burkina Faso,2017-18 MIS,Centre-Nord ,BF-05,7,8.9
+Burkina Faso,2017-18 MIS,Centre-Ouest ,BF-06,7.2,8.2
+Burkina Faso,2017-18 MIS,Est ,BF-08,5.1,7.5
+Burkina Faso,2017-18 MIS,Nord ,BF-10,8.8,12.7
+Burkina Faso,2017-18 MIS,Cascades ,BF-02,18.1,18.7
+Burkina Faso,2017-18 MIS,Sud-Ouest ,BF-13,4.8,6.2
+Burkina Faso,2014 MIS,Centre (including Ouagadougou) ,BF-03,55.9,55.3
+Burkina Faso,2014 MIS,Boucle de Mouhoun ,BF-01,4.5,4.6
+Burkina Faso,2014 MIS,Centre-Sud ,BF-07,4.4,4.8
+Burkina Faso,2014 MIS,Plateau Central ,BF-11,5.6,7.7
+Burkina Faso,2014 MIS,Centre-Est ,BF-04,5.5,7.7
+Burkina Faso,2014 MIS,Centre-Nord ,BF-05,1.2,2
+Burkina Faso,2014 MIS,Centre-Ouest ,BF-06,12.2,14.6
+Burkina Faso,2014 MIS,Est ,BF-08,5.1,4.6
+Burkina Faso,2014 MIS,Nord ,BF-10,8.2,10.6
+Burkina Faso,2014 MIS,Cascades ,BF-02,16.7,18.2
+Burkina Faso,2014 MIS,Sud-Ouest ,BF-13,11.8,13.2
+Burundi,2016-17 DHS,Bujumbura Mairie ,BI-BM,69.6,67.6
+Burundi,2016-17 DHS,Bubanza ,BI-BB,7.1,6.5
+Burundi,2016-17 DHS,Bururi ,BI-BR,3.3,3.1
+Burundi,2016-17 DHS,Cankuzo ,BI-CA,2.2,2.3
+Burundi,2016-17 DHS,Cibitoke ,BI-CI,9.8,8.5
+Burundi,2016-17 DHS,Gitega ,BI-GI,7.7,6.6
+Burundi,2016-17 DHS,Karusi ,BI-KR,1.5,1.4
+Burundi,2016-17 DHS,Kayanza ,BI-KY,6.3,5.5
+Burundi,2016-17 DHS,Kirundo ,BI-KI,2.2,1.7
+Burundi,2016-17 DHS,Makamba ,BI-MA,3.8,3.5
+Burundi,2016-17 DHS,Muramvya ,BI-MU,2.2,2.2
+Burundi,2016-17 DHS,Muyinga ,BI-MY,1.8,1.5
+Burundi,2016-17 DHS,Mwaro ,BI-MW,2.6,2.3
+Burundi,2016-17 DHS,Ngozi ,BI-NG,7.3,5.7
+Burundi,2016-17 DHS,Rutana ,BI-RT,4.3,3.2
+Burundi,2016-17 DHS,Ruyigi ,BI-RY,3.4,3.2
+Cambodia,2014 DHS,Banteay Meanchey ,KH-1,77.6,75.8
+Cambodia,2014 DHS,Kampong Cham ,KH-3,46.7,45.6
+Cambodia,2014 DHS,Kampong Chhnang ,KH-4,36.5,35.8
+Cambodia,2014 DHS,Kampong Speu ,KH-5,48.4,46.2
+Cambodia,2014 DHS,Kampong Thom ,KH-6,31.7,32
+Cambodia,2014 DHS,Kandal ,KH-8,84.3,83.6
+Cambodia,2014 DHS,Phnom Penh ,KH-12,99.6,99.5
+Cambodia,2014 DHS,Prey Veng ,KH-14,46.8,45.6
+Cambodia,2014 DHS,Pursat ,KH-15,30.7,30.4
+Cambodia,2014 DHS,Svay Rieng ,KH-20,40.9,37.9
+Cambodia,2014 DHS,Siem Reap ,KH-17,40.8,39.9
+Cambodia,2014 DHS,Otdar Mean Chey ,KH-22,26.6,27
+Cameroon,2018 DHS,Est ,CM-ES,42.4,44.2
+Cameroon,2018 DHS,Nord ,CM-NO,27.5,27.3
+Cameroon,2018 DHS,Adamaoua ,CM-AD,43.3,46.3
+Cameroon,2018 DHS,Extrême-Nord ,CM-EN,17.9,19.6
+Cameroon,2018 DHS,Centre ,CM-CE,56.2,60.8
+Cameroon,2018 DHS,Sud ,CM-SU,65.6,71.5
+Cameroon,2018 DHS,Ouest ,CM-OU,79.4,79.2
+Cameroon,2018 DHS,Littoral ,CM-LT,84.4,83
+Cameroon,2018 DHS,Nord Ouest ,CM-NW,56.5,58.8
+Cameroon,2018 DHS,Sud Ouest ,CM-SW,98.4,98
+Cameroon,2011 DHS,Est ,CM-ES,46.4,43.4
+Cameroon,2011 DHS,Nord ,CM-NO,26.4,23.3
+Cameroon,2011 DHS,Adamaoua ,CM-AD,44.1,41
+Cameroon,2011 DHS,Extrême-Nord ,CM-EN,14,12.8
+Cameroon,2011 DHS,Centre ,CM-CE,59.7,61.6
+Cameroon,2011 DHS,Sud ,CM-SU,63,61.2
+Cameroon,2011 DHS,Ouest ,CM-OU,59,58.9
+Cameroon,2011 DHS,Littoral ,CM-LT,74.4,73.1
+Cameroon,2011 DHS,Nord Ouest ,CM-NW,44.2,45
+Cameroon,2011 DHS,Sud Ouest ,CM-SW,54.5,53.2
+Chad,2014-15 DHS,Chari Baguirmi ,TD-CB,2.1,1.5
+Chad,2014-15 DHS,Guéra ,TD-GR,10.3,6.9
+Chad,2014-15 DHS,Hadjer-Lamis ,TD-HL,3.7,2.9
+Chad,2014-15 DHS,Kanem ,TD-KA,3.5,2.9
+Chad,2014-15 DHS,Logone Occidental ,TD-LO,10.1,9.7
+Chad,2014-15 DHS,Logone Oriental ,TD-LR,4.5,4.4
+Chad,2014-15 DHS,Mandoul ,TD-MA,1.6,1.5
+Chad,2014-15 DHS,Mayo Kebbi Est ,TD-ME,2.4,2.3
+Chad,2014-15 DHS,Mayo Kebbi Ouest ,TD-MO,1.8,1.4
+Chad,2014-15 DHS,Moyen Chari ,TD-MC,16.4,14.2
+Chad,2014-15 DHS,Ouaddaï ,TD-OD,6.4,4.5
+Chad,2014-15 DHS,Salamat ,TD-SA,5.7,5
+Chad,2014-15 DHS,Tandjilé ,TD-TA,2,1.5
+Chad,2014-15 DHS,Wadi Fira ,TD-WF,0.9,1
+Chad,2014-15 DHS,Barh El Gazal ,TD-BG,5.4,4.8
+Colombia,2015 DHS,Bogotá,CO-DC,99.9,99.9
+Colombia,2015 DHS,La Guajira,CO-LAG,78.9,79.6
+Colombia,2015 DHS,Cesar,CO-CES,86.2,87.3
+Colombia,2015 DHS,Magdalena,CO-MAG,95,94.6
+Colombia,2015 DHS,Atlántico,CO-ATL,99.8,99.6
+Colombia,2015 DHS,San Andrés,CO-SAP,99.6,99.4
+Colombia,2015 DHS,Bolívar,CO-BOL,97.3,96.7
+Colombia,2015 DHS,Sucre,CO-SUC,95.9,95.1
+Colombia,2015 DHS,Córdoba,CO-COR,98.5,98.5
+Colombia,2015 DHS,Norte de Santander,CO-NSA,97.5,97.7
+Colombia,2015 DHS,Santander,CO-SAN,99.4,99.4
+Colombia,2015 DHS,Boyacá,CO-BOY,99.6,99.2
+Colombia,2015 DHS,Cundinamarca,CO-CUN,98.6,98.3
+Colombia,2015 DHS,Meta,CO-MET,95,93.8
+Colombia,2015 DHS,Antioquia,CO-ANT,99.1,99
+Colombia,2015 DHS,Caldas,CO-CAL,99.4,99.4
+Colombia,2015 DHS,Risaralda,CO-RIS,99.8,99.8
+Colombia,2015 DHS,Quindío,CO-QUI,99.7,99.7
+Colombia,2015 DHS,Tolima,CO-TOL,98.5,98.5
+Colombia,2015 DHS,Huila,CO-HUI,99.4,99.1
+Colombia,2015 DHS,Caquetá,CO-CAQ,86.6,87.3
+Colombia,2015 DHS,Valle,CO-VAC,99.6,99.6
+Colombia,2015 DHS,Cauca,CO-CAU,95.4,95.4
+Colombia,2015 DHS,Nariño,CO-NAR,92.9,94.2
+Colombia,2015 DHS,Chocó,CO-CHO,87.7,88.5
+Colombia,2015 DHS,Arauca,CO-ARA,99.6,99.3
+Colombia,2015 DHS,Casanare,CO-CAS,97.8,96.6
+Colombia,2015 DHS,Guainía,CO-GUA,48.9,52.9
+Colombia,2015 DHS,Vichada,CO-VID,98.3,98.4
+Colombia,2015 DHS,Amazonas,CO-AMA,81.2,83.4
+Colombia,2015 DHS,Putumayo,CO-PUT,93.4,93.5
+Colombia,2015 DHS,Guaviare,CO-GUV,98.9,98.7
+Colombia,2015 DHS,Vaupés,CO-VAU,39.2,46.5
+Congo,2011-12 DHS,Brazzaville 2009 ,CG-BZV,64,62.7
+Congo,2011-12 DHS,Pointe-Noire 2009 ,CG-16,53.6,55.2
+Congo,2011-12 DHS,Lékoumou ,CG-2,6.6,5.6
+Congo,2011-12 DHS,Bouénza ,CG-11,29.7,27.2
+Congo,2011-12 DHS,Pool ,CG-12,7.4,6.2
+Congo,2011-12 DHS,Plateaux ,CG-14,4.6,4.9
+Congo,2011-12 DHS,Cuvette-Ouest ,CG-15,6,5.5
+Congo,2011-12 DHS,Sangha ,CG-13,18.7,16.7
+Congo,2011-12 DHS,Likouala ,CG-7,20.1,21.6
+Congo Democratic Republic,2013-14 DHS,Kinshasa ,CD-KN,90.5,90
+Congo Democratic Republic,2013-14 DHS,Bas-Congo ,CD-BC,14.6,13.5
+Congo Democratic Republic,2013-14 DHS,Bandundu ,CD-BN,0.7,0.5
+Congo Democratic Republic,2013-14 DHS,Equateur ,CD-EQ,2.1,1.9
+Congo Democratic Republic,2013-14 DHS,Orientale ,CD-OR,7.9,6.1
+Congo Democratic Republic,2013-14 DHS,Nord-Kivu ,CD-NK,10,8.7
+Congo Democratic Republic,2013-14 DHS,Maniema ,CD-MA,9.2,9
+Congo Democratic Republic,2013-14 DHS,Sud-Kivu ,CD-SK,7.4,6.2
+Congo Democratic Republic,2013-14 DHS,Katanga ,CD-KA,29.1,26.4
+Congo Democratic Republic,2013-14 DHS,Kasaï Oriental ,CD-KE,0.9,0.9
+Congo Democratic Republic,2013-14 DHS,Kasaï Occident ,CD-KW,1.2,0.7
+Ethiopia,2019 DHS,Tigray ,ET-TI,44.9,49.1
+Ethiopia,2019 DHS,Afar ,ET-AF,22.2,28.9
+Ethiopia,2019 DHS,Amhara ,ET-AM,27.2,31.1
+Ethiopia,2019 DHS,Oromia ,ET-OR,27.7,30.8
+Ethiopia,2019 DHS,Somali ,ET-SO,10.2,11.5
+Ethiopia,2019 DHS,Benishangul-Gumuz ,ET-BE,21.1,21.9
+Ethiopia,2019 DHS,SNNPR ,ET-SN,31.6,33.3
+Ethiopia,2019 DHS,Gambela ,ET-GA,40.1,43.3
+Ethiopia,2019 DHS,Harari ,ET-HA,80.8,83.7
+Ethiopia,2019 DHS,Addis Ababa ,ET-AA,98.8,98.3
+Ethiopia,2019 DHS,Dire Dawa ,ET-DD,72.2,76.5
+Ethiopia,2016 DHS,Tigray ,ET-TI,31.1,36
+Ethiopia,2016 DHS,Afar ,ET-AF,22.6,30.9
+Ethiopia,2016 DHS,Amhara ,ET-AM,18.4,24.1
+Ethiopia,2016 DHS,Oromia ,ET-OR,16.9,21
+Ethiopia,2016 DHS,Somali ,ET-SO,13.5,12.3
+Ethiopia,2016 DHS,Benishangul-Gumuz ,ET-BE,18,23.1
+Ethiopia,2016 DHS,SNNPR ,ET-SN,13.7,15.7
+Ethiopia,2016 DHS,Gambela ,ET-GA,38.3,41.7
+Ethiopia,2016 DHS,Harari ,ET-HA,75,80.1
+Ethiopia,2016 DHS,Addis Ababa ,ET-AA,99.8,99.4
+Ethiopia,2016 DHS,Dire Dawa ,ET-DD,64.7,71.9
+Gabon,2012 DHS,Ogooué Ivindo ,GA-6,57.3,56.7
+Gabon,2012 DHS,Woleu Ntem ,GA-9,69.6,65.1
+Gabon,2012 DHS,Ogooué-Lolo ,GA-7,83.5,77.1
+Gabon,2012 DHS,Haut-Ogooué ,GA-2,92,90.4
+Gabon,2012 DHS,Estuaire (excluding Libreville) ,GA-1,87.7,84
+Gabon,2012 DHS,Moyen-Ogooué ,GA-3,77.6,72.4
+Gabon,2012 DHS,Ogooué-Maritime (excluding Port-Gentil) ,GA-8,82.3,75.2
+Gabon,2012 DHS,Ngounié ,GA-4,69.4,67.3
+Gabon,2012 DHS,Nyanga ,GA-5,69.8,64.7
+Ghana,2019 MIS,Western ,GH-WP,87.2,86.3
+Ghana,2019 MIS,Greater Accra ,GH-AA,97,96.6
+Ghana,2019 MIS,Volta ,GH-TV,83.6,83.6
+Ghana,2019 MIS,Eastern ,GH-EP,88.5,88
+Ghana,2019 MIS,Ashanti ,GH-AH,84.8,84.5
+Ghana,2019 MIS,Brong-Ahafo ,GH-BA,67.9,71.1
+Ghana,2019 MIS,Northern ,GH-NP,67.8,67.1
+Ghana,2019 MIS,Upper West ,GH-UW,56.5,60.2
+Ghana,2019 MIS,Upper East ,GH-UE,43.4,45.8
+Ghana,2019 MIS,Central ,GH-CP,87.3,88.6
+Ghana,2016 MIS,Western ,GH-WP,78.8,77
+Ghana,2016 MIS,Greater Accra ,GH-AA,93.3,91.7
+Ghana,2016 MIS,Volta ,GH-TV,81.9,83.7
+Ghana,2016 MIS,Eastern ,GH-EP,70.9,72.6
+Ghana,2016 MIS,Ashanti ,GH-AH,83.2,85.2
+Ghana,2016 MIS,Brong-Ahafo ,GH-BA,77,79.2
+Ghana,2016 MIS,Northern ,GH-NP,59.9,65.8
+Ghana,2016 MIS,Upper West ,GH-UW,65.2,65.5
+Ghana,2016 MIS,Upper East ,GH-UE,46.7,51.2
+Ghana,2016 MIS,Central ,GH-CP,71.5,70.5
+Guatemala,2014-15 DHS,Petén ,GT-PE,70.3,72
+Guatemala,2014-15 DHS,Guatemala,GT-GU,98.6,98.4
+Guatemala,2014-15 DHS,El Progreso ,GT-PR,90.5,90.6
+Guatemala,2014-15 DHS,Sacatepéquez ,GT-SA,98.2,98.2
+Guatemala,2014-15 DHS,Chimaltenango ,GT-CM,95.3,94.2
+Guatemala,2014-15 DHS,Escuintla ,GT-ES,96.4,96.1
+Guatemala,2014-15 DHS,Santa Rosa ,GT-SR,89.4,89.4
+Guatemala,2014-15 DHS,Sololá ,GT-SO,95.2,94.8
+Guatemala,2014-15 DHS,Totonicapán ,GT-TO,95.7,95.2
+Guatemala,2014-15 DHS,Quetzaltenango ,GT-QZ,94.1,93.5
+Guatemala,2014-15 DHS,Suchitepéquez ,GT-SU,93.9,93.6
+Guatemala,2014-15 DHS,Retalhuleu ,GT-RE,92.8,92.7
+Guatemala,2014-15 DHS,San Marcos ,GT-SM,91.6,91.9
+Guatemala,2014-15 DHS,Huehuetenango ,GT-HU,80.7,81.1
+Guatemala,2014-15 DHS,Quiché ,GT-QC,80.9,80.3
+Guatemala,2014-15 DHS,Baja Verapaz ,GT-BV,72.2,73.8
+Guatemala,2014-15 DHS,Alta Verapaz ,GT-AV,50,50.9
+Guatemala,2014-15 DHS,Petén ,GT-PE,70.3,72
+Guatemala,2014-15 DHS,Izabal ,GT-IZ,77.8,81.2
+Guatemala,2014-15 DHS,Zacapa ,GT-ZA,85.7,88.1
+Guatemala,2014-15 DHS,Chiquimula ,GT-CQ,78.7,80.7
+Guatemala,2014-15 DHS,Jalapa ,GT-JA,82.9,84.9
+Guatemala,2014-15 DHS,Jutiapa ,GT-JU,90.5,90.7
+Guinea,2018 DHS,Conakry ,GN-C,97.7,97.8
+Guinea,2018 DHS,Boké ,GN-B,38.9,40
+Guinea,2018 DHS,Faranah ,GN-FA,29.5,26.8
+Guinea,2018 DHS,Kankan ,GN-KA,50,48.3
+Guinea,2018 DHS,Kindia ,GN-KD,45.1,41.6
+Guinea,2018 DHS,Labé ,GN-LA,27.5,25.1
+Guinea,2018 DHS,Mamou ,GN-MM,33,32.7
+Guinea,2018 DHS,N'Zérékoré ,GN-NZ,21.2,17.6
+Guinea,2012 DHS,Conakry ,GN-C,93.8,93
+Guinea,2012 DHS,Boké ,GN-B,21,21
+Guinea,2012 DHS,Faranah ,GN-FA,8.2,7.8
+Guinea,2012 DHS,Kankan ,GN-KA,9.4,10.2
+Guinea,2012 DHS,Kindia ,GN-KD,24.7,25.1
+Guinea,2012 DHS,Labé ,GN-LA,5.3,5
+Guinea,2012 DHS,Mamou ,GN-MM,9.6,8.4
+Guinea,2012 DHS,N'Zérékoré ,GN-NZ,4.4,3.1
+India,2019-21 DHS,New Delhi ,IN-DL,99.9,99.9
+India,2019-21 DHS,Haryana ,IN-HR,99.6,99.5
+India,2019-21 DHS,Himachal Pradesh ,IN-HP,99.5,99.4
+India,2019-21 DHS,Punjab ,IN-PB,99.7,99.6
+India,2019-21 DHS,Rajasthan ,IN-RJ,98.1,97.9
+India,2019-21 DHS,Madhya Pradesh ,IN-MP,98.4,98.1
+India,2019-21 DHS,Chhattisgarh ,IN-CT,98.8,98.5
+India,2019-21 DHS,Uttar Pradesh ,IN-UP,91,89.8
+India,2019-21 DHS,Uttarakhand ,IN-UT,99.6,99.4
+India,2019-21 DHS,Bihar ,IN-BR,96.3,95.6
+India,2019-21 DHS,Jharkhand ,IN-JH,94.3,93.8
+India,2019-21 DHS,Odisha ,IN-OR,97,96.3
+India,2019-21 DHS,Assam ,IN-AS,92.6,92.7
+India,2019-21 DHS,Manipur ,IN-MN,98.1,97.8
+India,2019-21 DHS,Meghalaya ,IN-ML,91.9,92
+India,2019-21 DHS,Mizoram ,IN-MZ,98.2,98
+India,2019-21 DHS,Nagaland ,IN-NL,98.5,98.6
+India,2019-21 DHS,Sikkim ,IN-SK,99.3,99.3
+India,2019-21 DHS,Tripura ,IN-TR,98.2,97.9
+India,2019-21 DHS,Goa ,IN-GA,100,100
+India,2019-21 DHS,Gujarat ,IN-GJ,97.6,97.2
+India,2019-21 DHS,Maharashtra ,IN-MH,97.8,97.4
+India,2019-21 DHS,Karnataka ,IN-KA,99.1,98.8
+India,2019-21 DHS,Kerala ,IN-KL,99.6,99.5
+India,2019-21 DHS,Tamil Nadu ,IN-TN,99.3,99
+India,2019-21 DHS,Andaman and Nicobar Islands ,IN-AN,97.6,97.5
+India,2019-21 DHS,Chandigarh ,IN-CH,99.8,99.7
+India,2019-21 DHS,Lakshadweep ,IN-LD,99.8,99.7
+India,2019-21 DHS,Puducherry ,IN-PY,99.9,99.8
+India,2019-21 DHS,Andhra Pradesh ,IN-AP,99.5,99.1
+India,2019-21 DHS,Telangana ,IN-TG,99.6,99.3
+India,2019-21 DHS,Jammu & Kashmir ,IN-JK,99.3,99.3
+India,2015-16 DHS,New Delhi ,IN-DL,99.8,99.8
+India,2015-16 DHS,Haryana ,IN-HR,98.9,98.8
+India,2015-16 DHS,Himachal Pradesh ,IN-HP,99.5,99.5
+India,2015-16 DHS,Punjab ,IN-PB,99.6,99.6
+India,2015-16 DHS,Rajasthan ,IN-RJ,91.2,91
+India,2015-16 DHS,Madhya Pradesh ,IN-MP,90.9,89.9
+India,2015-16 DHS,Chhattisgarh ,IN-CT,96.3,95.6
+India,2015-16 DHS,Uttar Pradesh ,IN-UP,72.6,70.9
+India,2015-16 DHS,Uttarakhand ,IN-UT,97.8,97.5
+India,2015-16 DHS,Bihar ,IN-BR,60,58.6
+India,2015-16 DHS,Jharkhand ,IN-JH,81.1,80.1
+India,2015-16 DHS,Odisha ,IN-OR,86.6,85.5
+India,2015-16 DHS,Assam ,IN-AS,78.3,78.2
+India,2015-16 DHS,Manipur ,IN-MN,92.8,92.4
+India,2015-16 DHS,Meghalaya ,IN-ML,91.8,91.4
+India,2015-16 DHS,Mizoram ,IN-MZ,96,95.9
+India,2015-16 DHS,Nagaland ,IN-NL,96.7,96.9
+India,2015-16 DHS,Sikkim ,IN-SK,99.4,99.4
+India,2015-16 DHS,Tripura ,IN-TR,92.8,92.7
+India,2015-16 DHS,Goa ,IN-GA,99.8,99.8
+India,2015-16 DHS,Gujarat ,IN-GJ,96.2,96
+India,2015-16 DHS,Maharashtra ,IN-MH,93.5,92.5
+India,2015-16 DHS,Karnataka ,IN-KA,98.2,97.8
+India,2015-16 DHS,Kerala ,IN-KL,99.2,99.2
+India,2015-16 DHS,Tamil Nadu ,IN-TN,99,98.8
+India,2015-16 DHS,Andaman and Nicobar Islands ,IN-AN,97.2,97
+India,2015-16 DHS,Chandigarh ,IN-CH,99.6,99.6
+India,2015-16 DHS,Lakshadweep ,IN-LD,100,99.9
+India,2015-16 DHS,Puducherry ,IN-PY,99.8,99.6
+India,2015-16 DHS,Andhra Pradesh ,IN-AP,99.2,98.8
+India,2015-16 DHS,Telangana ,IN-TG,98.9,98.3
+Jordan,2012 DHS,Amman ,JO-AM,99.5,99.5
+Jordan,2012 DHS,Balqa ,JO-BA,99.4,99.3
+Jordan,2012 DHS,Zarqa ,JO-AZ,99.6,99.7
+Jordan,2012 DHS,Madaba ,JO-MD,99.4,99.4
+Jordan,2012 DHS,Irbid ,JO-IR,99.2,99.3
+Jordan,2012 DHS,Mafraq ,JO-MA,99.5,99.4
+Jordan,2012 DHS,Jarash ,JO-JA,99.5,99.6
+Jordan,2012 DHS,Ajloun ,JO-AJ,99.6,99.6
+Jordan,2012 DHS,Karak ,JO-KA,99.7,99.7
+Jordan,2012 DHS,Tafiela ,JO-AT,99.5,99.5
+Jordan,2012 DHS,Ma'an ,JO-MN,99.2,99
+Jordan,2012 DHS,Aqaba ,JO-AQ,99.3,99.3
+Kyrgyz Republic,2012 DHS,Bishkek ,KG-GB,99.7,99.7
+Kyrgyz Republic,2012 DHS,Issyk-Kul ,KG-Y,99.9,99.9
+Kyrgyz Republic,2012 DHS,Djalal-Abad ,KG-J,99.9,99.9
+Kyrgyz Republic,2012 DHS,Naryn ,KG-N,98.8,98.9
+Kyrgyz Republic,2012 DHS,Batken ,KG-B,99.9,99.9
+Kyrgyz Republic,2012 DHS,Talas ,KG-T,99.8,99.8
+Kyrgyz Republic,2012 DHS,Chui ,KG-C,100,100
+Lesotho,2014 DHS,Butha-Buthe ,LS-B,17.3,18.8
+Lesotho,2014 DHS,Leribe ,LS-C,26.6,24.8
+Lesotho,2014 DHS,Berea ,LS-D,30.6,32.7
+Lesotho,2014 DHS,Maseru ,LS-A,43.3,45.5
+Lesotho,2014 DHS,Mafeteng ,LS-E,28.6,30
+Lesotho,2014 DHS,Mohale's Hoek ,LS-F,11.8,12.4
+Lesotho,2014 DHS,Quthing ,LS-G,19.5,19.7
+Lesotho,2014 DHS,Qasha's Nek ,LS-H,28,30
+Lesotho,2014 DHS,Mokhotlong ,LS-J,6.8,8.8
+Lesotho,2014 DHS,Thaba-Tseka ,LS-K,6.6,7
+Liberia,2019-20 DHS,Montserrado incl Monrovia ,LR-MO,52.1,53.2
+Liberia,2019-20 DHS,Sinoe ,LR-SI,6.3,6.3
+Liberia,2019-20 DHS,Grand Gedeh ,LR-GG,11.3,10.8
+Liberia,2019-20 DHS,Bomi ,LR-BM,8.6,10
+Liberia,2019-20 DHS,Grand Cape Mount ,LR-CM,16.8,12.7
+Liberia,2019-20 DHS,Gbarpolu ,LR-GP,5,5.3
+Liberia,2019-20 DHS,Margibi ,LR-MG,7.9,5.8
+Liberia,2019-20 DHS,Grand Bassa ,LR-GB,11.3,8.5
+Liberia,2019-20 DHS,River Cess ,LR-RI,4.3,4.1
+Liberia,2019-20 DHS,River Gee ,LR-RG,3.1,4.1
+Liberia,2019-20 DHS,Grand Kru ,LR-GK,7,7.4
+Liberia,2019-20 DHS,Maryland ,LR-MY,19.9,22.5
+Liberia,2019-20 DHS,Lofa ,LR-LO,13.1,11.7
+Liberia,2019-20 DHS,Bong ,LR-BG,2.9,3
+Liberia,2019-20 DHS,Nimba ,LR-NI,4.8,4.3
+Liberia,2013 DHS,Montserrado incl Monrovia ,LR-MO,25.5,23.6
+Liberia,2013 DHS,Sinoe ,LR-SI,4.5,3.9
+Liberia,2013 DHS,Grand Gedeh ,LR-GG,2.1,1.6
+Liberia,2013 DHS,Bomi ,LR-BM,0.4,0.4
+Liberia,2013 DHS,Grand Cape Mount ,LR-CM,3.2,3.2
+Liberia,2013 DHS,Gbarpolu ,LR-GP,2.1,2.4
+Liberia,2013 DHS,Margibi ,LR-MG,7.7,6.6
+Liberia,2013 DHS,Grand Bassa ,LR-GB,3.1,2.3
+Liberia,2013 DHS,River Cess ,LR-RI,2.7,2.3
+Liberia,2013 DHS,River Gee ,LR-RG,3.1,2.7
+Liberia,2013 DHS,Grand Kru ,LR-GK,0.5,0.5
+Liberia,2013 DHS,Maryland ,LR-MY,2,2.2
+Liberia,2013 DHS,Lofa ,LR-LO,0.8,0.7
+Liberia,2013 DHS,Bong ,LR-BG,0.1,0.3
+Liberia,2013 DHS,Nimba ,LR-NI,0.7,1.2
+Malawi,2015-16 DHS,Chitipa ,MW-CT,7.9,7.8
+Malawi,2015-16 DHS,Karonga ,MW-KR,8.4,8.7
+Malawi,2015-16 DHS,Mzimba ,MW-MZ,4.1,4
+Malawi,2015-16 DHS,Rumphi ,MW-RU,14.9,15
+Malawi,2015-16 DHS,Nkhata Bay ,MW-NB,12.5,12.5
+Malawi,2015-16 DHS,Likoma ,MW-LK,44.7,41.2
+Malawi,2015-16 DHS,Dedza ,MW-DE,1.3,1.4
+Malawi,2015-16 DHS,Dowa ,MW-DO,4,3.7
+Malawi,2015-16 DHS,Kasungu ,MW-KS,5.9,5.8
+Malawi,2015-16 DHS,Mchinji ,MW-MC,3.3,3.3
+Malawi,2015-16 DHS,Salima ,MW-SA,6,5.9
+Malawi,2015-16 DHS,Balaka ,MW-BA,6.1,6.4
+Malawi,2015-16 DHS,Chikwawa ,MW-CK,5.4,5.6
+Malawi,2015-16 DHS,Chiradzulu ,MW-CR,4.2,3.8
+Malawi,2015-16 DHS,Machinga ,MW-MH,4,4.1
+Malawi,2015-16 DHS,Mangochi ,MW-MG,7,6
+Malawi,2015-16 DHS,Mulanje ,MW-MU,7.9,8.1
+Malawi,2015-16 DHS,Mwanza ,MW-MW,13,13.7
+Malawi,2015-16 DHS,Neno ,MW-NE,3.7,4.5
+Malawi,2015-16 DHS,Nsanje ,MW-NS,7.4,7.5
+Malawi,2015-16 DHS,Phalombe ,MW-PH,2.7,3
+Malawi,2015-16 DHS,Thyolo ,MW-TH,6.9,6.4
+Malawi,2015-16 DHS,Blantyre ,MW-BL,40.2,39.6
+Malawi,2015-16 DHS,Zomba ,MW-ZO,11.7,11.3
+Malawi,2015-16 DHS,Lilongwe ,MW-LI,16.9,16.4
+Mali,2018 DHS,Kayes ,ML-1,38.9,39.3
+Mali,2018 DHS,Koulikoro ,ML-2,51,48.8
+Mali,2018 DHS,Sikasso ,ML-3,56.5,52.9
+Mali,2018 DHS,Ségou ,ML-4,48.6,47.9
+Mali,2018 DHS,Kidal/Gao/Tombouctou,ML-5,18.6,17.9
+Mali,2018 DHS,Bamako ,ML-BKO,92.3,91.1
+Mali,2015 MIS,Kayes ,ML-1,31.6,32.6
+Mali,2015 MIS,Koulikoro ,ML-2,35.4,36.2
+Mali,2015 MIS,Sikasso ,ML-3,33.2,31
+Mali,2015 MIS,Ségou ,ML-4,31.9,28.5
+Mali,2015 MIS,Mopti ,ML-5,14.2,15.1
+Mali,2015 MIS,Bamako ,ML-BKO,90.3,89.2
+Mauritania,2019-21 DHS,Hodh Echargui ,MR-01,12.5,10.8
+Mauritania,2019-21 DHS,Hodh Gharbi ,MR-02,18.8,17.7
+Mauritania,2019-21 DHS,Assaba ,MR-03,25.4,22
+Mauritania,2019-21 DHS,Gorgol ,MR-04,25.8,23.2
+Mauritania,2019-21 DHS,Brakna ,MR-05,21.7,20
+Mauritania,2019-21 DHS,Trarza ,MR-06,44.3,39.6
+Mauritania,2019-21 DHS,Adrar ,MR-07,53.8,48
+Mauritania,2019-21 DHS,Dakhlet Nouadhibou ,MR-08,95.6,92.7
+Mauritania,2019-21 DHS,Tagant ,MR-09,23.3,21.9
+Mauritania,2019-21 DHS,Guidimagha ,MR-10,18.1,14.4
+Mauritania,2019-21 DHS,Tiris Zemour et Inchiri ,MR-11,87.2,86.2
+Mozambique,2018 MIS,Niassa,MZ-A,11.4,10.2
+Mozambique,2018 MIS,Cabo Delgado,MZ-P,13.9,12.5
+Mozambique,2018 MIS,Nampula,MZ-N,31.5,28.4
+Mozambique,2018 MIS,Zambézia,MZ-Q,16.3,13.3
+Mozambique,2018 MIS,Tete,MZ-T,13.5,12.4
+Mozambique,2018 MIS,Manica,MZ-B,27.3,25.8
+Mozambique,2018 MIS,Sofala,MZ-S,31.7,32.4
+Mozambique,2018 MIS,Inhambane,MZ-I,26.2,22.4
+Mozambique,2018 MIS,Gaza,MZ-G,47.8,42
+Mozambique,2018 MIS,Maputo Provincia,MZ-L,78.7,73
+Mozambique,2018 MIS,Maputo Cidade,MZ-MPM,97.4,95.4
+Mozambique,2015 AIS,Niassa,MZ-A,21.2,17.6
+Mozambique,2015 AIS,Cabo Delgado,MZ-P,19.9,16.7
+Mozambique,2015 AIS,Nampula,MZ-N,17.9,14.8
+Mozambique,2015 AIS,Zambézia,MZ-Q,12.1,11.4
+Mozambique,2015 AIS,Tete,MZ-T,10,8.3
+Mozambique,2015 AIS,Manica,MZ-B,27.2,24.7
+Mozambique,2015 AIS,Sofala,MZ-S,27.3,28
+Mozambique,2015 AIS,Inhambane,MZ-I,17.3,16
+Mozambique,2015 AIS,Gaza,MZ-G,42.8,37.5
+Mozambique,2015 AIS,Maputo Provincia,MZ-L,69.3,62.6
+Mozambique,2015 AIS,Maputo Cidade,MZ-MPM,94.8,93.3
+Myanmar,2015-16 DHS,Kachin ,MM-11,73.1,70.1
+Myanmar,2015-16 DHS,Kayah ,MM-12,87.1,85.7
+Myanmar,2015-16 DHS,Kayin ,MM-13,54.3,53.7
+Myanmar,2015-16 DHS,Chin ,MM-14,42.6,42.5
+Myanmar,2015-16 DHS,Sagaing ,MM-01,44.4,44.6
+Myanmar,2015-16 DHS,Taninthayi ,MM-05,67.9,66.7
+Myanmar,2015-16 DHS,Bago ,MM-02,60.1,58.2
+Myanmar,2015-16 DHS,Magway ,MM-03,31.6,30.3
+Myanmar,2015-16 DHS,Mandalay ,MM-04,48.5,47.7
+Myanmar,2015-16 DHS,Mon ,MM-15,74.9,72.1
+Myanmar,2015-16 DHS,Rakhine ,MM-16,61.5,63
+Myanmar,2015-16 DHS,Yangon ,MM-06,89.9,90
+Myanmar,2015-16 DHS,Shan ,MM-17,59.7,58.2
+Myanmar,2015-16 DHS,Ayeyarwaddy ,MM-07,38.3,34.1
+Myanmar,2015-16 DHS,NayPyitaw ,MM-18,59.4,60.3
+Namibia,2013 DHS,Omusati ,NA-OS,9.6,11.4
+Namibia,2013 DHS,Ohangwena ,NA-OW,11.1,14.6
+Namibia,2013 DHS,Oshana ,NA-ON,30.9,35.9
+Namibia,2013 DHS,Oshikoto ,NA-OT,24.7,28.6
+Namibia,2013 DHS,Kunene ,NA-KU,48.8,47.4
+Namibia,2013 DHS,Omaheke ,NA-OH,35,36.5
+Namibia,2013 DHS,Otjozondjupa ,NA-OD,74.3,72.6
+Namibia,2013 DHS,Erongo ,NA-ER,79.4,76.9
+Namibia,2013 DHS,Khomas ,NA-KH,75.6,72.6
+Namibia,2013 DHS,Hardap ,NA-HA,81.9,77.9
+Namibia,2013 DHS,Karas ,NA-KA,73.6,71.2
+Niger,2012 DHS,Niamey ,NE-8,73.5,74.4
+Niger,2012 DHS,Dosso ,NE-3,6.4,7.5
+Niger,2012 DHS,Maradi ,NE-4,10.1,9.2
+Niger,2012 DHS,Tahoua ,NE-5,9.6,8.6
+Niger,2012 DHS,Agadez ,NE-1,39.2,35.7
+Niger,2012 DHS,Tillabéri ,NE-6,11.2,12.2
+Niger,2012 DHS,Zinder ,NE-7,8,6.9
+Niger,2012 DHS,Diffa ,NE-2,31.6,30.9
+Nigeria,2018 DHS,FCT Abuja,NG-FC,77.3,76.1
+Nigeria,2018 DHS,Benue,NG-BE,41.3,41.5
+Nigeria,2018 DHS,Kogi,NG-KO,58.7,59.3
+Nigeria,2018 DHS,Kwara,NG-KW,75.9,91.1
+Nigeria,2018 DHS,Nasarawa,NG-NA,59.3,28.2
+Nigeria,2018 DHS,Niger,NG-NI,52.2,21.1
+Nigeria,2018 DHS,Plateau,NG-PL,41.1,18
+Nigeria,2018 DHS,Adamawa,NG-AD,42.7,32.8
+Nigeria,2018 DHS,Bauchi,NG-BA,36.4,13.7
+Nigeria,2018 DHS,Borno,NG-BO,47.1,2.7
+Nigeria,2018 DHS,Gombe,NG-GO,45.3,35.1
+Nigeria,2018 DHS,Taraba,NG-TA,20.7,40.6
+Nigeria,2018 DHS,Yobe,NG-YO,31.2,25.4
+Nigeria,2018 DHS,Jigawa,NG-JI,27.8,28.1
+Nigeria,2018 DHS,Kaduna,NG-KD,63.7,42.7
+Nigeria,2018 DHS,Kano,NG-KN,55.4,35.5
+Nigeria,2018 DHS,Katsina,NG-KT,46.5,33
+Nigeria,2018 DHS,Kebbi,NG-KE,34,36.1
+Nigeria,2018 DHS,Sokoto,NG-SO,34.5,30.5
+Nigeria,2018 DHS,Zamfara,NG-ZA,36.9,24.8
+Nigeria,2018 DHS,Abia,NG-AB,91.1,62.2
+Nigeria,2018 DHS,Anambra,NG-AN,83.9,95.4
+Nigeria,2018 DHS,Ebonyi,NG-EB,25.3,22.1
+Nigeria,2018 DHS,Enugu,NG-EN,64.3,64.1
+Nigeria,2018 DHS,Imo,NG-IM,54.5,33.6
+Nigeria,2018 DHS,Ekiti,NG-EK,59.5,77.2
+Nigeria,2018 DHS,Lagos,NG-LA,98.9,97.6
+Nigeria,2018 DHS,Ogun,NG-OG,92.5,67.8
+Nigeria,2018 DHS,Ondo,NG-ON,54.7,34.2
+Nigeria,2018 DHS,Osun,NG-OS,78.7,77.9
+Nigeria,2018 DHS,Oyo,NG-OY,76.2,78
+Nigeria,2018 DHS,Akwa Ibom,NG-AK,74.7,47.4
+Nigeria,2018 DHS,Bayelsa,NG-BY,48.8,63.7
+Nigeria,2018 DHS,Cross River,NG-CR,53.4,45.4
+Nigeria,2018 DHS,Delta,NG-DE,72.9,74.4
+Nigeria,2018 DHS,Edo,NG-ED,72.6,80.2
+Nigeria,2018 DHS,Rivers,NG-RI,81.8,87.8
+Nigeria,2015 MIS,FCT Abuja,NG-FC,69.6,80.8
+Nigeria,2015 MIS,Benue,NG-BE,22.9,43.9
+Nigeria,2015 MIS,Kogi,NG-KO,67.1,59.8
+Nigeria,2015 MIS,Kwara,NG-KW,51,79.3
+Nigeria,2015 MIS,Nasarawa,NG-NA,20.3,59.1
+Nigeria,2015 MIS,Niger,NG-NI,37.4,54.1
+Nigeria,2015 MIS,Plateau,NG-PL,17.1,46.9
+Nigeria,2015 MIS,Adamawa,NG-AD,14.4,44.8
+Nigeria,2015 MIS,Bauchi,NG-BA,39.2,34.4
+Nigeria,2015 MIS,Borno,NG-BO,63.9,42.6
+Nigeria,2015 MIS,Gombe,NG-GO,61.2,42.9
+Nigeria,2015 MIS,Taraba,NG-TA,17.4,23
+Nigeria,2015 MIS,Yobe,NG-YO,45.9,28.3
+Nigeria,2015 MIS,Jigawa,NG-JI,21.9,24.5
+Nigeria,2015 MIS,Kaduna,NG-KD,38.7,64
+Nigeria,2015 MIS,Kano,NG-KN,38.9,52.1
+Nigeria,2015 MIS,Katsina,NG-KT,33.2,43.4
+Nigeria,2015 MIS,Kebbi,NG-KE,30.3,32.8
+Nigeria,2015 MIS,Sokoto,NG-SO,18,31.6
+Nigeria,2015 MIS,Zamfara,NG-ZA,36.4,33.3
+Nigeria,2015 MIS,Abia,NG-AB,90.6,89.5
+Nigeria,2015 MIS,Anambra,NG-AN,88.7,81.5
+Nigeria,2015 MIS,Ebonyi,NG-EB,46.2,25.7
+Nigeria,2015 MIS,Enugu,NG-EN,72.1,63.4
+Nigeria,2015 MIS,Imo,NG-IM,81.8,56.8
+Nigeria,2015 MIS,Ekiti,NG-EK,82.1,62.4
+Nigeria,2015 MIS,Lagos,NG-LA,99.7,98.9
+Nigeria,2015 MIS,Ogun,NG-OG,64.3,92.2
+Nigeria,2015 MIS,Ondo,NG-ON,57.5,55.3
+Nigeria,2015 MIS,Osun,NG-OS,80.9,77.9
+Nigeria,2015 MIS,Oyo,NG-OY,65.8,76.7
+Nigeria,2015 MIS,Akwa Ibom,NG-AK,78.4,73.7
+Nigeria,2015 MIS,Bayelsa,NG-BY,69.3,47.1
+Nigeria,2015 MIS,Cross River,NG-CR,52.8,53.5
+Nigeria,2015 MIS,Delta,NG-DE,77,72
+Nigeria,2015 MIS,Edo,NG-ED,88,70.1
+Nigeria,2015 MIS,Rivers,NG-RI,64,81.9
+Pakistan,2017-18 DHS,Punjab excluding Islamabad (ICT),PK-PB,94.8,95.1
+Pakistan,2017-18 DHS,Sindh ,PK-SD,87.4,88
+Pakistan,2017-18 DHS,Khyber Pakhtunkhwa ,PK-KP,94.9,94.7
+Pakistan,2017-18 DHS,Balochistan ,PK-BA,85.9,85.5
+Pakistan,2017-18 DHS,Gilgit Baltistan ,PK-GB,100,100
+Pakistan,2017-18 DHS,Islamabad (ICT),PK-IS,97.3,96.9
+Pakistan,2012-13 DHS,Punjab excluding Islamabad (ICT),PK-PB,94.6,95
+Pakistan,2012-13 DHS,Sindh ,PK-SD,90.6,90.5
+Pakistan,2012-13 DHS,Khyber Pakhtunkhwa ,PK-KP,97.5,97.3
+Pakistan,2012-13 DHS,Balochistan ,PK-BA,77.8,75.5
+Pakistan,2012-13 DHS,Gilgit Baltistan ,PK-GB,95.4,95.3
+Pakistan,2012-13 DHS,Islamabad (ICT),PK-IS,98.3,98.6
+Peru,2012 DHS,Loreto ,PE-LOR,68.4,69.6
+Peru,2012 DHS,Junin ,PE-JUN,91.3,91.5
+Peru,2012 DHS,Huanuco ,PE-HUC,73.1,72.6
+Peru,2012 DHS,Pasco ,PE-PAS,81,81.5
+Peru,2012 DHS,Arequipa ,PE-ARE,97.5,96.6
+Peru,2012 DHS,Ancash ,PE-ANC,92,89.6
+Peru,2012 DHS,Piura ,PE-PIU,90.7,90.3
+Peru,2012 DHS,Tumbes ,PE-TUM,98,96.7
+Peru,2012 DHS,Apurimac ,PE-APU,81.8,76.2
+Peru,2012 DHS,Cusco ,PE-CUS,82.7,80.6
+Peru,2012 DHS,Madre de Dios ,PE-MDD,89.1,88.3
+Peru,2012 DHS,Moquegua ,PE-MOQ,93,91.4
+Peru,2012 DHS,Puno ,PE-PUN,82.7,81.6
+Peru,2012 DHS,Tacna ,PE-TAC,97.7,96.8
+Peru,2012 DHS,Ayacucho ,PE-AYA,88,84.3
+Peru,2012 DHS,Huancavelica ,PE-HUV,77.3,75.5
+Peru,2012 DHS,Ica ,PE-ICA,98.5,97.1
+Peru,2012 DHS,Cajamarca ,PE-CAJ,69.8,70.3
+Peru,2012 DHS,Lambayaque ,PE-LAM,94.4,94.2
+Peru,2012 DHS,La Libertad ,PE-LAL,91.6,91.3
+Peru,2012 DHS,San Martín ,PE-SAM,79,80.4
+Peru,2012 DHS,Ucayali ,PE-UCA,85.5,84.9
+Peru,2012 DHS,Lima ,PE-LIM,99.1,98.8
+Philippines,2017 DHS,National Capital Region ,PH-00,99,98.8
+Philippines,2017 DHS,Cordillera Administ. ,PH-15,96.4,96.4
+Philippines,2017 DHS,Ilocos ,PH-01,97.3,96.7
+Philippines,2017 DHS,Cagayan Valley ,PH-02,96.9,96.6
+Philippines,2017 DHS,Central Luzon ,PH-03,96.9,96.8
+Philippines,2017 DHS,MIMAROPA ,PH-41,86.7,86.7
+Philippines,2017 DHS,Bicol ,PH-05,89,88
+Philippines,2017 DHS,Western Visayas ,PH-08,93.7,92.9
+Philippines,2017 DHS,Central Visayas ,PH-07,91.5,90.1
+Philippines,2017 DHS,Northern Mindanao ,PH-10,86.3,85.4
+Philippines,2017 DHS,ARMM ,PH-14,82,81.5
+Philippines,2017 DHS,Caraga ,PH-13,88.5,88.1
+Philippines,2013 DHS,National Capital Region ,PH-00,97.9,98
+Philippines,2013 DHS,Cordillera Administ. ,PH-15,93.7,92.7
+Philippines,2013 DHS,Ilocos ,PH-01,92.5,92.7
+Philippines,2013 DHS,Cagayan Valley ,PH-02,84.4,84.2
+Philippines,2013 DHS,Central Luzon ,PH-03,95.1,94.9
+Philippines,2013 DHS,MIMAROPA ,PH-41,77.7,76.1
+Philippines,2013 DHS,Bicol ,PH-05,84.3,83.5
+Philippines,2013 DHS,Western Visayas ,PH-08,83.2,83.6
+Philippines,2013 DHS,Central Visayas ,PH-07,84.3,84.1
+Philippines,2013 DHS,Northern Mindanao ,PH-10,74.8,76.5
+Philippines,2013 DHS,ARMM ,PH-14,53.3,52.5
+Philippines,2013 DHS,Caraga ,PH-13,85,84.5
+Rwanda,2019-20 DHS,North ,RW-03,33.9,32.5
+Rwanda,2019-20 DHS,East ,RW-02,43.4,42.5
+Rwanda,2019-20 DHS,West ,RW-04,42.7,41.3
+Rwanda,2019-20 DHS,South ,RW-05,38.2,36.4
+Rwanda,2019-20 DHS,Kigali ,RW-01,89.1,88.9
+Rwanda,2014-15 DHS,North ,RW-03,16.8,28.7
+Rwanda,2014-15 DHS,East ,RW-02,20.1,23.2
+Rwanda,2014-15 DHS,West ,RW-04,20.4,32.5
+Rwanda,2014-15 DHS,South ,RW-05,11.3,17.4
+Rwanda,2014-15 DHS,Kigali ,RW-01,71.4,79.8
+Senegal,2017 DHS,Dakar ,SN-DK,97.7,96.6
+Senegal,2017 DHS,Thiès ,SN-TH,69.9,67.9
+Senegal,2017 DHS,Diourbel ,SN-DB,59.8,56.9
+Senegal,2017 DHS,..Kaffrine ,SN-KA,21.1,17.6
+Senegal,2017 DHS,..Kaolack (2010),SN-KL,46.2,48.3
+Senegal,2017 DHS,Louga ,SN-LG,50.6,42
+Senegal,2017 DHS,Fatick ,SN-FK,49.9,49.6
+Senegal,2017 DHS,Ziguinchor ,SN-ZG,67.2,64.5
+Senegal,2017 DHS,..Sédhiou ,SN-SE,30.6,29.6
+Senegal,2017 DHS,..Kolda (2010),SN-KD,22.4,21.7
+Senegal,2017 DHS,Matam ,SN-MT,50.7,43.9
+Senegal,2017 DHS,Saint Louis ,SN-SL,57.3,55.7
+Senegal,2017 DHS,..Kédougou ,SN-KE,33.5,29.8
+Senegal,2017 DHS,..Tambacounda (2010),SN-TC,29.4,34.4
+Sierra Leone,2019 DHS,Southern ,SL-S,8.2,7.5
+Sierra Leone,2019 DHS,Western ,SL-W,64.9,64.2
+Sierra Leone,2019 DHS,Eastern ,SL-E,11,9.8
+Sierra Leone,2019 DHS,Northern ,SL-N,13.5,14.3
+Sierra Leone,2019 DHS,North Western ,SL-NW,7.8,7.9
+Sierra Leone,2016 MIS,Eastern,SL-E,9.4,8.2
+Sierra Leone,2016 MIS,Northern (before 2017),SL-N,7.7,7.6
+Sierra Leone,2016 MIS,Southern,SL-S,12.3,12.1
+Sierra Leone,2016 MIS,Western,SL-W,60.2,65.9
+South Africa,2016 DHS,Eastern Cape ,ZA-EC,80,81.9
+South Africa,2016 DHS,Gauteng ,ZA-GT,91.7,88.6
+South Africa,2016 DHS,Mpumalanga ,ZA-MP,83.4,81.1
+Tajikistan,2017 DHS,Dushanbe ,TJ-DU,98.5,98.4
+Tajikistan,2017 DHS,Sughd ,TJ-SU,100,100
+Tajikistan,2017 DHS,Khatlon ,TJ-KT,99.2,99.2
+Tajikistan,2012 DHS,Dushanbe ,TJ-DU,100,100
+Tajikistan,2012 DHS,Sughd ,TJ-SU,98.3,98.5
+Tajikistan,2012 DHS,Khatlon ,TJ-KT,99.5,99.2
+Tanzania,2015-16 DHS,Mwanza ,TZ-18,19.8,24
+Tanzania,2015-16 DHS,Tabora ,TZ-24,6.7,13.1
+Tanzania,2015-16 DHS,Shinyanga ,TZ-22,12,19.2
+Tanzania,2015-16 DHS,Kigoma ,TZ-08,8,11.7
+Tanzania,2015-16 DHS,Kilimanjaro ,TZ-09,39.4,41.1
+Tanzania,2015-16 DHS,Tanga ,TZ-25,29.6,20
+Tanzania,2015-16 DHS,Arusha ,TZ-01,27.6,49.8
+Tanzania,2015-16 DHS,Manyara ,TZ-26,6.1,9.2
+Tanzania,2015-16 DHS,Dodoma ,TZ-03,4.2,10
+Tanzania,2015-16 DHS,Singida ,TZ-23,10.4,8.1
+Tanzania,2015-16 DHS,Iringa ,TZ-04,27.6,32.5
+Tanzania,2015-16 DHS,Rukwa ,TZ-20,7,8.5
+Tanzania,2015-16 DHS,Kagera ,TZ-05,9.7,16.5
+Tanzania,2015-16 DHS,Mara ,TZ-13,14,17.4
+Tanzania,2015-16 DHS,Dar es Salaam ,TZ-02,75.9,73.7
+Tanzania,2015-16 DHS,Morogoro ,TZ-16,19.4,22.7
+Tanzania,2015-16 DHS,Lindi ,TZ-12,8.8,25.9
+Tanzania,2015-16 DHS,Mtwara ,TZ-17,11.7,10.1
+Tanzania,2015-16 DHS,Ruvuma ,TZ-21,13.2,22.7
+Tanzania,2015-16 DHS,Njombe ,TZ-29,17.5,7.9
+Tanzania,2015-16 DHS,Simiyu ,TZ-30,3.4,9.8
+Tanzania,2015-16 DHS,Geita ,TZ-27,3.6,10.8
+Tanzania,2015-16 DHS,Mbeya (before 2016),TZ-14,14.7,18.7
+Tanzania,2015-16 DHS,Katavi ,TZ-28,7.1,9.1
+Tanzania,2015-16 DHS,Kaskazini Unguja ,TZ-07,18.5,17.6
+Tanzania,2015-16 DHS,Kusini Unguja ,TZ-11,35.4,31.7
+Tanzania,2015-16 DHS,Mjini Magharibi ,TZ-15,82.5,80.8
+Tanzania,2015-16 DHS,Kaskazini Pemba ,TZ-06,22.9,21.7
+Tanzania,2015-16 DHS,Kusini Pemba ,TZ-10,28.6,27.3
+Timor-Leste,2016 DHS,Aileu ,TL-AL,68.5,67.5
+Timor-Leste,2016 DHS,Ainaro ,TL-AN,58.2,55.2
+Timor-Leste,2016 DHS,Baucau ,TL-BA,85.2,80
+Timor-Leste,2016 DHS,Bobonaro ,TL-BO,76.3,74.4
+Timor-Leste,2016 DHS,Cova Lima ,TL-CO,65.5,63.6
+Timor-Leste,2016 DHS,Dili ,TL-DI,97.2,96.4
+Timor-Leste,2016 DHS,Ermera ,TL-ER,49.2,48
+Timor-Leste,2016 DHS,Liquica ,TL-LI,70.7,68.6
+Timor-Leste,2016 DHS,Lautem ,TL-LA,84.6,79.2
+Timor-Leste,2016 DHS,Manufahi ,TL-MF,64.6,62.6
+Timor-Leste,2016 DHS,Manatuto ,TL-MT,90.5,88.4
+Timor-Leste,2016 DHS,Oecussi ,TL-OE,73,72.2
+Timor-Leste,2016 DHS,Viqueque ,TL-VI,66.8,63.1
+Togo,2017 MIS,Plateaux ,TG-P,34.3,35.9
+Togo,2017 MIS,Maritime ,TG-M,44.1,43.5
+Togo,2017 MIS,Centrale ,TG-C,39.1,39.9
+Togo,2017 MIS,Kara ,TG-K,28.9,33.9
+Togo,2017 MIS,Savanes ,TG-S,15.1,18.9
+Togo,2013-14 DHS,Plateaux ,TG-P,25.9,30.7
+Togo,2013-14 DHS,Maritime ,TG-M,27.5,28.5
+Togo,2013-14 DHS,Centrale ,TG-C,39.5,41.1
+Togo,2013-14 DHS,Kara ,TG-K,25.2,30.4
+Togo,2013-14 DHS,Savanes ,TG-S,11.4,15
+Uganda,2018-19 MIS,Kampala ,UG-102,95.3,94.9
+Uganda,2018-19 MIS,Eastern,UG-E,23.8,23.4
+Uganda,2018-19 MIS,Western,UG-W,56.5,52.3
+Uganda,2018-19 MIS,Northern,UG-N,25.3,24.5
+Uganda,2016 DHS,Eastern ,UG-E,10.7,11.5
+Uganda,2016 DHS,Western ,UG-W,26.6,26.6
+Uganda,2014-15 MIS,Western ,UG-W,10.9,12.3
+Yemen,2013 DHS,Ibb ,YE-IB,88,86.4
+Yemen,2013 DHS,Abyan ,YE-AB,93.2,92.9
+Yemen,2013 DHS,Al-Baidha ,YE-BA,85.3,84.6
+Yemen,2013 DHS,Taiz ,YE-TA,78.1,74.7
+Yemen,2013 DHS,Al-Jawf ,YE-JA,63.2,61.4
+Yemen,2013 DHS,Hajjah ,YE-HJ,44.1,39.9
+Yemen,2013 DHS,Al-Hodiedah ,YE-HU,63.3,59.2
+Yemen,2013 DHS,Hadramout ,YE-HD,91.3,92.2
+Yemen,2013 DHS,Dhamar ,YE-DH,74.6,72
+Yemen,2013 DHS,Shabwah ,YE-SH,95.4,94.6
+Yemen,2013 DHS,Sadah ,YE-SD,81.9,80.8
+Yemen,2013 DHS,Sanaa ,YE-SN,79.3,76.7
+Yemen,2013 DHS,Aden ,YE-AD,99.4,99.3
+Yemen,2013 DHS,Lahj ,YE-LA,68.5,70.5
+Yemen,2013 DHS,Mareb ,YE-MA,88.4,85.2
+Yemen,2013 DHS,Al-Mhweit ,YE-MW,70.8,66.8
+Yemen,2013 DHS,Al-Mhrah ,YE-MR,98.7,98.5
+Yemen,2013 DHS,Amran ,YE-AM,69.1,66.1
+Yemen,2013 DHS,Reimah ,YE-RA,43.1,40
+Zambia,2018 DHS,Southern ,ZM-07,19.8,23.5
+Zambia,2018 DHS,Western ,ZM-01,11.6,10.6
+Zambia,2018 DHS,Eastern ,ZM-03,15.8,15.7
+Zambia,2018 DHS,Northern ,ZM-05,11.9,10.7
+Zambia,2018 DHS,Copperbelt ,ZM-08,62.2,62.5
+Zambia,2018 DHS,Luapula ,ZM-04,12.3,11.6
+Zambia,2018 DHS,Lusaka ,ZM-09,76.9,75.8
+Zambia,2018 DHS,North-Western ,ZM-06,18.9,21.1
+Zambia,2018 DHS,Muchinga ,ZM-10,12.8,13
+Zambia,2018 DHS,Central ,ZM-02,23.2,24.3
+Zambia,2013-14 DHS,Southern ,ZM-07,14.9,16.7
+Zambia,2013-14 DHS,Western ,ZM-01,6.7,6.3
+Zambia,2013-14 DHS,Eastern ,ZM-03,5.5,6.3
+Zambia,2013-14 DHS,Northern ,ZM-05,7.3,7
+Zambia,2013-14 DHS,Copperbelt ,ZM-08,54.8,54
+Zambia,2013-14 DHS,Luapula ,ZM-04,5.3,4.7
+Zambia,2013-14 DHS,Lusaka ,ZM-09,72.2,70.8
+Zambia,2013-14 DHS,North-Western ,ZM-06,12.2,12.3
+Zambia,2013-14 DHS,Muchinga ,ZM-10,9.4,9.2
+Zambia,2013-14 DHS,Central ,ZM-02,12,14.2
+Zimbabwe,2015 DHS,"Manicaland	",ZW-MA,15.6,18.5
+Zimbabwe,2015 DHS,"Mashonaland Central	",ZW-MC,11.8,12.3
+Zimbabwe,2015 DHS,"Mashonaland East	",ZW-ME,16.8,18.2
+Zimbabwe,2015 DHS,"Mashonaland West	",ZW-MW,25.5,29.4
+Zimbabwe,2015 DHS,"Matabeleland North	",ZW-MN,12.4,17.2
+Zimbabwe,2015 DHS,"Matabeleland South	",ZW-MS,13.1,17.2
+Zimbabwe,2015 DHS,"Midlands	",ZW-MI,24.3,30.1
+Zimbabwe,2015 DHS,"Masvingo	",ZW-MV,20,22.1
+Zimbabwe,2015 DHS,"Harare Chitungwiza	",ZW-HA,76.5,76.2
+Zimbabwe,2015 DHS,"Bulawayo	",ZW-BU,96.3,96.7
